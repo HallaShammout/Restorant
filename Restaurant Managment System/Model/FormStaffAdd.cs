@@ -41,7 +41,7 @@ namespace Restaurant_Managment_System.Model
                 txtPossword.Text = "";
                 txtUserName.Text = "";
                 txtPhone.Text = "";
-                cbRole.Text = "";
+                cbRole.SelectedIndex = -1; ;
                 txtName.Focus();
             }
         }

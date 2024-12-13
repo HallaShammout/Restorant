@@ -86,6 +86,12 @@
     <Compile Include="Model\FormCategoryAdd.Designer.cs">
       <DependentUpon>FormCategoryAdd.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\FormProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\FormProductAdd.Designer.cs">
+      <DependentUpon>FormProductAdd.cs</DependentUpon>
+    </Compile>
     <Compile Include="Model\FormStaffAdd.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -118,6 +124,12 @@
     <Compile Include="View\FormCategoryView.Designer.cs">
       <DependentUpon>FormCategoryView.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\FormProductView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormProductView.Designer.cs">
+      <DependentUpon>FormProductView.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\FormStaffView.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -141,6 +153,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Model\FormCategoryAdd.resx">
       <DependentUpon>FormCategoryAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\FormProductAdd.resx">
+      <DependentUpon>FormProductAdd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Model\FormStaffAdd.resx">
       <DependentUpon>FormStaffAdd.cs</DependentUpon>
@@ -166,6 +181,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\FormCategoryView.resx">
       <DependentUpon>FormCategoryView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormProductView.resx">
+      <DependentUpon>FormProductView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\FormStaffView.resx">
       <DependentUpon>FormStaffView.cs</DependentUpon>
@@ -234,6 +252,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\plus-box1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\productPic.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

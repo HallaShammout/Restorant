@@ -86,5 +86,15 @@ namespace Restaurant_Management_System
         {
             AddControls(new FormStaffView());
         }
+
+        private void btnSettings_Click(object sender, EventArgs e)
+        {
+            AddControls(new FormProductView());
+        }
+
+        private void ContrilsPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

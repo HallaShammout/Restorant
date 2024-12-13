@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|c:\\users\\hp\\desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\restorant\\restaurant managment system\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|solutionrelative:restaurant managment system\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|c:\\users\\hp\\desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\restorant\\restaurant managment system\\model\\formproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|solutionrelative:restaurant managment system\\model\\formproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\restaurant managment system\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|solutionrelative:restaurant managment system\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\restaurant managment system\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|solutionrelative:restaurant managment system\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\restaurant managment system\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|solutionrelative:restaurant managment system\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|c:\\users\\hp\\desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\restorant\\restaurant managment system\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22C0F820-0E86-48C5-B302-9BB6132BF3D4}|Restaurant Managment System\\RM.csproj|solutionrelative:restaurant managment system\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +102,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "FormProductAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\Restaurant Managment System\\Model\\FormProductAdd.cs",
+              "RelativeDocumentMoniker": "Restaurant Managment System\\Model\\FormProductAdd.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\Restaurant Managment System\\Model\\FormProductAdd.cs [Design]",
+              "RelativeToolTip": "Restaurant Managment System\\Model\\FormProductAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:34:06.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SQLQuery1.sql ",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\SQLQuery1.sql",
               "RelativeDocumentMoniker": "SQLQuery1.sql",
@@ -109,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SampleView.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\Restaurant Managment System\\SampleView.cs",
               "RelativeDocumentMoniker": "Restaurant Managment System\\SampleView.cs",
@@ -128,18 +144,20 @@
               "ToolTip": "C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\Restaurant Managment System\\FormHome.cs [Design]",
               "RelativeToolTip": "Restaurant Managment System\\FormHome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T17:51:48.477Z"
+              "WhenOpened": "2024-12-10T17:51:48.477Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FormMain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\Restaurant Managment System\\FormMain.cs",
               "RelativeDocumentMoniker": "Restaurant Managment System\\FormMain.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\Restorant\\Restaurant Managment System\\FormMain.cs [Design]",
               "RelativeToolTip": "Restaurant Managment System\\FormMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T17:49:42.433Z"
+              "WhenOpened": "2024-12-10T17:49:42.433Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

@@ -16,6 +16,7 @@ namespace Restaurant_Management_System
     public partial class FormMain : Form
     {
         internal static object Instance;
+        private object FormCashier;
 
         public FormMain()
         {
@@ -96,5 +97,12 @@ namespace Restaurant_Management_System
         {
 
         }
+
+        private void btnPOS_Click(object sender, EventArgs e)
+        {
+           FormCashier frm = new FormCashier();
+            frm.Show();
+        }
     }
+    
 }

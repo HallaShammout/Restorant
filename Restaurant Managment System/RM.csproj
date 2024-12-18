@@ -73,6 +73,7 @@
     <Compile Include="FormHome.Designer.cs">
       <DependentUpon>FormHome.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPOS.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="FormLogin.cs">
       <SubType>Form</SubType>
@@ -103,6 +104,24 @@
     </Compile>
     <Compile Include="Model\FormTableAdd.Designer.cs">
       <DependentUpon>FormTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\frmTableSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\frmTableSelect.Designer.cs">
+      <DependentUpon>frmTableSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\frmWaiterSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\frmWaiterSelect.Designer.cs">
+      <DependentUpon>frmWaiterSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ucProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Model\ucProduct.Designer.cs">
+      <DependentUpon>ucProduct.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -142,6 +161,9 @@
     <Compile Include="View\FormTableView.Designer.cs">
       <DependentUpon>FormTableView.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FormCashier.resx">
+      <DependentUpon>FormCashier.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormHome.resx">
       <DependentUpon>FormHome.cs</DependentUpon>
     </EmbeddedResource>
@@ -162,6 +184,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Model\FormTableAdd.resx">
       <DependentUpon>FormTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\frmTableSelect.resx">
+      <DependentUpon>frmTableSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\frmWaiterSelect.resx">
+      <DependentUpon>frmWaiterSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\ucProduct.resx">
+      <DependentUpon>ucProduct.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -255,6 +286,42 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\productPic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-new-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-new-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand-back-right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list-box-outline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chef-hat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moped-outline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food-takeout-box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table-chair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice-text-plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash-register.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

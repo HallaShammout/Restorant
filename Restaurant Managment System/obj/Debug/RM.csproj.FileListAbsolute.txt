@@ -46,3 +46,31 @@ C:\Users\HP\Desktop\مشروع البرمجة\Restorant\Restaurant Managment Sys
 C:\Users\HP\Desktop\مشروع البرمجة\Restorant\Restaurant Managment System\obj\Debug\RM.csproj.Up2Date
 C:\Users\HP\Desktop\مشروع البرمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant Managment System.exe
 C:\Users\HP\Desktop\مشروع البرمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant Managment System.pdb
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\bin\Debug\Restaurant Managment System.exe.config
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\bin\Debug\Restaurant Managment System.exe
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\bin\Debug\Restaurant Managment System.pdb
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\RM.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.FormCashier.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.FormHome.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\RM.FormLogin.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Management_System.FormMain.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.Model.FormCategoryAdd.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.Model.FormProductAdd.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.Model.FormStaffAdd.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.Model.FormTableAdd.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.Model.frmTableSelect.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.Model.frmWaiterSelect.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.Model.ucProduct.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.Properties.Resources.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.SampleAdd.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.SampleView.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.View.FormCategoryView.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.View.FormProductView.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.View.FormStaffView.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant_Managment_System.View.FormTableView.resources
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\RM.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\RM.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\RM.csproj.Up2Date
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant Managment System.exe
+C:\Users\HP\Desktop\برمجة\Restorant\Restaurant Managment System\obj\Debug\Restaurant Managment System.pdb
